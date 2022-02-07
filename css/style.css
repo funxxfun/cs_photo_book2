@@ -1,0 +1,31 @@
+/* ここからリセットCSS */
+* {
+  margin: 0 auto;
+  box-sizing: border-box;
+  color: #333;
+  font-size: 14px;
+}
+body {
+  background-color: #f4f9ff;
+ }
+/* ここまでリセットCSS */
+/* ここから共通 */
+img {
+  width: 100%;
+}
+
+li{
+  list-style: none;
+}
+/* ここまで共通 */
+/* ここからheader */
+/* ここまでheader */
+
+/* ここからmain-visual */
+/* ここまでmain-visual */
+
+/* ここから */
+/* ここまで */
+
+/* ここからfooter */
+/* ここまでfooter */
